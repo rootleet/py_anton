@@ -1,4 +1,7 @@
 # py_anton
+
+A python tool that has functions to Encrypt and Decrypt Vegener Cypher, and also generate QR Codes
+
 ![alt text](assets/gen/anton.png)
 A python tool
 
